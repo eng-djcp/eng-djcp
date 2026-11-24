@@ -1,4 +1,4 @@
-# David J. Cerdas
+# David J. Cerdas – Personal and Academic Portfolio
 
 Senior Linux Escalation Engineer at Microsoft Azure, expanding my engineering scope into software development and AI, with a growing specialization in Secure Linux Systems Development and Linux-based AI workloads powered by open-weight models.
 
